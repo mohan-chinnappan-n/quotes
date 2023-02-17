@@ -1,0 +1,4 @@
+- [ ] I completed my code review with my peers
+- [ ] I completed code scan as explained [here](https://github.com/mohan-chinnappan-n/cli-dx/blob/master/mdapi/pmd-codescan.md)
+- [ ] I validated the test code coverage for correctness and any shortcuts to increase test code coverage
+- [ ] I completed a checkOnly deployment and this code is deployable
